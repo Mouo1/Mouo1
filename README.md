@@ -1,7 +1,7 @@
-![MasterHead](https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/max/800/0*aA9QMzH-2pd4aIE7.gif)
+<h1 align="center">Mohamed Hamada</h1>
 <h1 align="center">Data Analyst | BI Developer</h1>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mouhamada&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamada" /> 
@@ -11,19 +11,13 @@
 
 ### 👨‍💻 About Me:
 - 📫 **Reach me at**: [mohamedhamada196@gmail.com](mailto:mohamedhamada196@gmail.com)
-- 🌍 **Location**: Cairo, Egypt    
+- 🌍 **Location**: Cairo, Egypt
+- 🌐 **Connect with me**: Here is my [**Linkedin**](https://linkedin.com/in/mouhamada)    
 - 💬 **Ask me about**: SQL, Power BI, Tableau, Python, ETL, Data Modeling  
 - ⚡ **Fun fact**: I'm actively learning Dutch to expand my language skills!  
 - 📊 **Tableau Projects**: Check them out [**here**]([https://public.tableau.com/app/profile/mohamedhamada](https://public.tableau.com/app/profile/mohamed.hamada.abdulaty.ismail/vizzes))
 
 ---
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mouhamada" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohamed Hamada" height="40" width="40" />
-
-<br>
 
 # 🎓 Education
 
@@ -45,15 +39,16 @@
 
 ---
 
-## 🧑‍💻 Monitoring and Evaluation Officer  
+## 📊🔍 Monitoring and Evaluation Officer  
 **IDA Foundation for Sustainable Development**  
 **Feb 2024 – present**  
 **Location:** Egypt  
 
 **Key Responsibilities:**
-- Developed data-driven M&E plans and reported on project impact to ensure alignment with strategic goals.
+- Collected and analyzed, key performance data, leveraging statistical and analytical tools to assess projects impact and effectiveness.
 
-## 🖥️ Outdoor Activities Coordinator  
+  
+## 🌲🤸 Outdoor Activities Coordinator  
 **De Hoge Rielen**  
 **Mar 2023 – Jan 2024**  
 **Location:** Kasterlee, Belgium  
@@ -77,7 +72,11 @@
 
 ---
 
-
+- [Lending Club - ITI Graduation Project](https://github.com/Mouo1/Lending-Club-ITI-Graduation-Project)
+- [SuperStore - DEPI Graduation Project](https://github.com/Mouo1/SuperStore-DEPI-Graduation-Project)
+- [Pizza Runner Case Study](https://github.com/Mouo1/Pizza-Runner-Case-Study)
+- [Global Store System (Central Market)](https://github.com/Mouo1/Global-Store-System-Central-Market)
+  
 
 ---
 
@@ -114,10 +113,22 @@
 ### 🎯 Problem-Solving & Critical Thinking
 - Skilled at designing efficient, scalable solutions.
 
+### 📈 Leadership & Organizational Skills
+- Demonstrated leadership in extracurricular activities and projects, including roles that involved strategic planning, team coordination, and resource management.
+- Strong organizational skills with experience in managing project logistics, budgets, and timelines.
+
+### 🧩 Adaptability & Continuous Learning
+- Flexible and proactive in dynamic environments, with a commitment to lifelong learning.
+
 ### 🧑‍🤝‍🧑 Teamwork & Collaboration
 - Proven collaboration with cross-functional teams and effective communication with stakeholders.
 
-### 💡 Continuous Learning
-- Actively advancing in data Engineering, AI, and Dutch language learning.
+### 🗣️ Communication & Presentation
+- Proficient in conveying technical insights to diverse audiences, making complex data accessible and actionable.
+
+### 🧠 Analytical Thinking
+- Strong analytical skills, essential for identifying insights, driving data-based decisions, and enhancing project success.
+
+---
 
 
