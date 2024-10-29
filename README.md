@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/max/800/0*aA9QMzH-2pd4aIE7.gif))
+![MasterHead](https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/max/800/0*aA9QMzH-2pd4aIE7.gif)
 <h1 align="center">Data Analyst | BI Developer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
@@ -10,10 +10,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out my resume [**here**](#)  
+- 📫 **Reach me at**: [mohamedhamada196@gmail.com](mailto:mohamedhamada196@gmail.com)
+- 🌍 **Location**: Cairo, Egypt    
 - 💬 **Ask me about**: SQL, Power BI, Tableau, Python, ETL, Data Modeling  
-- 📫 **Reach me at**: [mohamedhamada196@gmail.com](mailto:mohamedhamada196@gmail.com)  
-- 🌍 **Location**: Cairo, Egypt  
 - ⚡ **Fun fact**: I'm actively learning Dutch to expand my language skills!  
 - 📊 **Tableau Projects**: Check them out [**here**]([https://public.tableau.com/app/profile/mohamedhamada](https://public.tableau.com/app/profile/mohamed.hamada.abdulaty.ismail/vizzes))
 
@@ -23,14 +22,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/mouhamada" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohamed Hamada" height="40" width="40" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/mohamed.hamada.abdulaty.ismail/vizzes" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Tableau_Logo.png" alt="Tableau - Mohamed Hamada" height="40" width="40" />
-  </a>
-  <a href="https://wa.me/+201110591257" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Mohamed Hamada" height="40" width="40" />
-  </a>
-</p>
 
 <br>
 
