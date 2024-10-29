@@ -1,7 +1,7 @@
-<h1 align="center">Mohamed Hamada</h1>
-<h1 align="center">Data Analyst | BI Developer</h1>
+<h1 align="center">Mohamed Hamada 
+Data Analyst | BI Developer </h1>
 
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" />
+<img align="right" alt="Coding" width="400" src="https://almablog-media.s3.ap-south-1.amazonaws.com/Web_Developer1_5a10332275.png" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mouhamada&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamada" /> 
