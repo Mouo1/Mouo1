@@ -1,5 +1,4 @@
-<h1 align="center">Mohamed Hamada 
-Data Analyst | BI Developer </h1>
+<h1 align="center">Mohamed Hamada - Data Analyst | BI Developer </h1>
 
 <img align="right" alt="Coding" width="400" src="https://almablog-media.s3.ap-south-1.amazonaws.com/Web_Developer1_5a10332275.png" />
 
