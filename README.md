@@ -14,7 +14,7 @@
 - 🌐 **Connect with me**: Here is my [**Linkedin**](https://linkedin.com/in/mouhamada)    
 - 💬 **Ask me about**: SQL, Power BI, Tableau, Python, ETL, Data Modeling  
 - ⚡ **Fun fact**: I'm actively learning Dutch to expand my language skills!  
-- 📊 **Tableau Projects**: Check them out [**here**]([https://public.tableau.com/app/profile/mohamedhamada](https://public.tableau.com/app/profile/mohamed.hamada.abdulaty.ismail/vizzes))
+- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/mohamed.hamada.abdulaty.ismail/vizzes)
 
 ---
 
